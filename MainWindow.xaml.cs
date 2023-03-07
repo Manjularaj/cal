@@ -30,7 +30,7 @@ namespace cal
         }
 
         //button assisging numbers 0
-        //Hi Professor.............................................................
+        
         private void btn0_Click(object sender, RoutedEventArgs e)
         {
             if (txtResult.Text == "0")
